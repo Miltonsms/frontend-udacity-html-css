@@ -1,0 +1,27 @@
+
+h1{
+	color: #666;
+	font-family: Verdana,sans-serif;
+}
+h4{
+	color: #f07c17;
+}
+.rededor{
+	border-top-color: 1px #ccc;
+}
+li {
+	font-family: verdana, sans-serif;
+}
+.box {
+	border-color: #ccc; 
+	border-width: 1px;
+	border-style: solid;
+}
+.listMain {
+	color: #f07c17 ;
+	font-weight: bold;
+	font-family: verdana, sans-serif;
+}
+p.{
+	line-height: 2em;
+}
